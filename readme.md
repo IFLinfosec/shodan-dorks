@@ -19,5 +19,7 @@ Select your subject o
 When viewing an individual result, click ** View Raw Data ** to explore other filters you can use from results.
 
 ## References ##
+https://help.shodan.io/the-basics/search-query-fundamentals
+https://beta.shodan.io/search/examples
 https://beta.shodan.io/search/filters
 https://developer.shodan.io/api/banner-specification
