@@ -16,7 +16,7 @@ ssl.cert.subject.cn:example.com
 
 
 
-**Device Type - Sorted Most Results to Least)**
+**Device Type - Sorted Most Results to Least)**  
 device:bridge  
 device:"broadband router"  
 device:firewall (776,057)  
