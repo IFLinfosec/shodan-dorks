@@ -12,6 +12,9 @@ org:"United States Department"
 **SSL Certificate Subject Common Name**  
 ssl.cert.subject.cn:example.com  
 
+**Industrial Control Systems (available to enterprise users)**  
+tag:ics  
+
 
 **Device Type (# Results)**  
 device:firewall (776,057)  
