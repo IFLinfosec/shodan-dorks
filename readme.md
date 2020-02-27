@@ -79,6 +79,7 @@ cpe:apple
 cpe:microsoft  
 cpe:oracle  
 cpe:nginx  
+cpe:cisco
 
 
 
