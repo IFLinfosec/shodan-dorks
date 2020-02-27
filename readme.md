@@ -61,9 +61,9 @@ os:"windows server 2016"
 os:"windows server 2019"  
 
 
-os:"linux 1"  
-os:"linux 2"  
-os:"linux 3"  
+os:"linux 2.4"  
+os:"linux 2.6"  
+os:"linux 3.x"  
 
 
 **Product, Server and Version (# of)**  
