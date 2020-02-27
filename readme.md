@@ -20,32 +20,19 @@ ssl.cert.subject.cn:example.com
 device:bridge  
 device:"broadband router"  
 device:firewall (776,057)  
-device:"load balancer" (3,824)
-
-device:media or device:"media device" (74,321)
-
-device:pbx (41,300)
-
-device:pda (6)
-
-device:phone (16,204)
-
-device:"voip phone" (15,549)
-
-device:"power device" (155)
-
-device:power (159)
-
-device:printer (26,238)
-
-device:"print server" (2,100)
-
-device:proxy or device:"proxy server" (123)
-
-device:remote or device:"remote management" (427)
-
-device:router (495,815)
-
+device:"load balancer" (3,824)  
+device:media or device:"media device" (74,321)  
+device:pbx (41,300)  
+device:pda (6)  
+device:phone (16,204)  
+device:"voip phone" (15,549)  
+device:"power device" (155)  
+device:power (159)  
+device:printer (26,238)  
+device:"print server" (2,100)  
+device:proxy or device:"proxy server" (123)  
+device:remote or device:"remote management" (427)  
+device:router (495,815)  
 
 
 **Operating System**
