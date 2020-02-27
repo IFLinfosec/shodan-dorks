@@ -30,7 +30,7 @@ device:"broadband router"
 device:pbx  
 device:printer  
 device:switch  
-device:storage
+device:storage. 
 device:specialized
 device:phone  
 device:"voip phone"  
@@ -38,10 +38,10 @@ device:"voip adaptor"
 device:"load balancer"  
 device:"print server"  
 device:terminal  
-device:remote 
+device:remote. 
 device:telecom
 device:power  
-device:proxy or device:"proxy server"  
+device:proxy.  
 device:pda  
 device:bridge  
 
