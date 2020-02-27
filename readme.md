@@ -16,7 +16,7 @@ ssl.cert.subject.cn:example.com
 **Device Type (# Results)**  
 device:firewall (776,057)  
 device:router (495,815)  
-device:wap (395,491)
+device:wap (395,491)  
 device:webcam (256,035)  
 device:media (74,321)  
 device:"broadband router" (52,971)  
