@@ -31,7 +31,7 @@ device:pbx
 device:printer  
 device:switch  
 device:storage  
-device:specialized
+device:specialized  
 device:phone  
 device:"voip phone"  
 device:"voip adaptor"  
@@ -39,7 +39,7 @@ device:"load balancer"
 device:"print server"  
 device:terminal  
 device:remote  
-device:telecom
+device:telecom  
 device:power  
 device:proxy  
 device:pda  
