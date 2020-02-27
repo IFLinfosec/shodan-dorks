@@ -66,16 +66,30 @@ os:"linux 2.6"
 os:"linux 3.x"  
 
 
-**Product, Server and Version (# of)**  
+**Product**  
 product:apache  
+product:microsoft  
+product:"microsoft iis"  
 product:nginx  
-product:"microsoft iis"
 product:android  
 
+
+**Platform**  
+cpe:apple  
+cpe:microsoft  
+cpe:oracle  
+cpe:nginx  
+
+
+
+**Server**  
 server: nginx  
 server: apache  
+server: microsoft  
+server: cisco-ios  
 server: ubuntu  
 server: android  
+
 
 **Ports**  
 port:21  
@@ -86,13 +100,17 @@ port:53
 port:3389  
 
 
+**Version**  
+
+
+
+
 **Link**  
 link:vpn
 
 
 
-**Server**  
-server: cisco-ios
+
 
 
 
@@ -113,7 +131,8 @@ city:chicago
 
 
 
-**Fun Stuff**
+**Vulnerabilities**
+
 
 
 
