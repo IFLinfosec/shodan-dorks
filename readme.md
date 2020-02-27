@@ -1,9 +1,9 @@
-**Hostname**
+**Hostname**  
 hostname:example.com  
 hostname:subdomain.example.com  
 hostname:example -hostname:example.com  
 
-**Organization**
+**Organization**  
 org:microsoft  
 org:"United States Department"    
 
