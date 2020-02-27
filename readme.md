@@ -70,9 +70,6 @@ ssl.version:tlsv1.3
 
 
 
-## Learning By Doing ##
-When viewing an individual result, click ** View Raw Data ** to explore other filters you can use from results.
-
 ## References ##
 https://help.shodan.io/the-basics/search-query-fundamentals  
 https://beta.shodan.io/search/examples  
