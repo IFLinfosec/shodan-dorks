@@ -3,12 +3,15 @@ hostname:example.com
 hostname:subdomain.example.com  
 hostname:example -hostname:example.com  
 
+
 **Organization**  
 org:microsoft  
 org:"United States Department"    
 
-**SSL Certificate Subject Common Name**
+
+**SSL Certificate Subject Common Name**  
 ssl.cert.subject.cn:example.com  
+
 
 **Device Type (# Results)**  
 device:firewall (776,057) 
