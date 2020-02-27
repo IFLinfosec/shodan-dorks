@@ -37,12 +37,19 @@ os:"windows xp"
 os:"windows 7"  
 os:"windows vista"  
 os:"windows 8"  
+
+
 os:"windows 2000"  
 os:"windows server 2003"  
 os:"windows server 2008"  
 os:"windows server 2012"  
 os:"windows server 2016"  
 os:"windows server 2019"  
+
+
+os:"linux 1"  
+os:"linux 2"  
+os:"linux 3"  
 
 
 **SSL/TLS Version**  
