@@ -33,11 +33,11 @@ device:bridge (5)
 
 
 **Operating System**  
-os:"windows 2000"
 os:"windows xp"  
 os:"windows 7"  
 os:"windows vista"  
 os:"windows 8"  
+os:"windows 2000"  
 os:"windows server 2003"  
 os:"windows server 2008"  
 os:"windows server 2012"  
