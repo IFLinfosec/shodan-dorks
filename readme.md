@@ -19,30 +19,30 @@ asn:AS3356
 net:192.168.100.14/24  
 
 
-**Device Type (# Results)**  
-device:firewall (776,057)  
-device:router (495,815)  
-device:wap (395,491)  
-device:webcam (256,035)  
-device:media (74,321)  
-device:"broadband router" (52,971)  
-device:pbx (41,300)  
-device:printer (26,238)  
-device:switch (19,570)  
-device:storage (17,685)
-device:specialized (17,238)
-device:phone (16,204)  
-device:"voip phone" (15,549)  
-device:"voip adaptor" (4,791)  
-device:"load balancer" (3,824)  
-device:"print server" (2,100)  
-device:terminal (549)  
-device:remote (427) 
-device:telecom (196)
-device:power (159)  
-device:proxy or device:"proxy server" (123)  
-device:pda (6)  
-device:bridge (5)  
+**Device Type**  
+device:firewall  
+device:router  
+device:wap  
+device:webcam  
+device:media  
+device:"broadband router"  
+device:pbx  
+device:printer  
+device:switch  
+device:storage
+device:specialized
+device:phone  
+device:"voip phone"  
+device:"voip adaptor"  
+device:"load balancer"  
+device:"print server"  
+device:terminal  
+device:remote 
+device:telecom
+device:power  
+device:proxy or device:"proxy server"  
+device:pda  
+device:bridge  
 
 
 **Operating System**  
@@ -76,6 +76,12 @@ server: apache (23,342,048)
 server: ubuntu (9,866,657)  
 server: android (37,205)  
 
+**Ports**  
+port:21
+port:22
+port:25
+port:53
+port:3389
 
 
 
