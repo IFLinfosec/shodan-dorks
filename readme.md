@@ -62,9 +62,10 @@ os:"linux 2"
 os:"linux 3"  
 
 
-**Products**  
+**Products and Version**  
 product:apache  
 product:nginx  
+product:"microsoft iis" version:"10.0"
 
 
 
@@ -82,6 +83,12 @@ ssl.version:tlsv1
 ssl.version:tlsv1.1  
 ssl.version:tlsv1.2  
 ssl.version:tlsv1.3  
+
+
+
+**Location**  
+country:us  
+city:chicago  
 
 
 
