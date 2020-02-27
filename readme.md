@@ -33,6 +33,7 @@ device:bridge (5)
 
 
 **Operating System**  
+os:"windows 2000"
 os:"windows xp"  
 os:"windows 7"  
 os:"windows vista"  
@@ -66,12 +67,9 @@ ssl.version:tlsv1.3
 When viewing an individual result, click ** View Raw Data ** to explore other filters you can use from results.
 
 ## References ##
-https://help.shodan.io/the-basics/search-query-fundamentals
-
-https://beta.shodan.io/search/examples
-
-https://beta.shodan.io/search/filters
-
-https://developer.shodan.io/api/banner-specification
-
-https://nmap.org/book/osdetect-device-types.html
+https://help.shodan.io/the-basics/search-query-fundamentals  
+https://beta.shodan.io/search/examples  
+https://beta.shodan.io/search/filters  
+https://developer.shodan.io/api/banner-specification  
+https://nmap.org/book/osdetect-device-types.html  
+https://en.wikipedia.org/wiki/List_of_Microsoft_Windows_versions
