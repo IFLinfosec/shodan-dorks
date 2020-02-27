@@ -62,6 +62,12 @@ os:"linux 2"
 os:"linux 3"  
 
 
+**Server**  
+server: cisco-ios
+
+
+
+
 **SSL/TLS Version**  
 ssl.version:sslv3  
 ssl.version:tlsv1  
