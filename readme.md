@@ -32,24 +32,24 @@ device:pda (6)
 device:bridge (5)  
 
 
+**Operating System**  
+os:"windows xp"  
+os:"windows 7"  
+os:"windows vista"  
+os:"windows 8"  
+os:"windows server 2003"  
+os:"windows server 2008"  
+os:"windows server 2012"  
+os:"windows server 2016"  
+os:"windows server 2019"  
 
 
-
- 
-
-
-
-
-**Operating System**
-
-
-
-**SSL/TLS Version**
-ssl.version:sslv3
-ssl.version:tlsv1
-ssl.version:tlsv1.1
-ssl.version:tlsv1.2
-ssl.version:tlsv1.3
+**SSL/TLS Version**  
+ssl.version:sslv3  
+ssl.version:tlsv1  
+ssl.version:tlsv1.1  
+ssl.version:tlsv1.2  
+ssl.version:tlsv1.3  
 
 
 
