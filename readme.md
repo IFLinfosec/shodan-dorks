@@ -1,17 +1,56 @@
-# shodan-dorks
-How to search on the shodan.io website
+**Hostname**
+hostname:example.com
+hostname:subdomain.example.com
+hostname:example -hostname:example.com
 
-## Basics ##
-The Shodan website uses the ** filtername:value ** structure for searches, where the filter is the type of thing you are searching for and the value is the specific example:
+**Organization**
+org:microsoft
+org:"Department of Justice"
 
-* hostname:example.com
+**SSL Certificate Subject Common Name**
+ssl.cert.subject.cn:example.com
 
-## Who ##
-A good starting point is the organisation you are seeking to find assets for.
 
-** Organisation **
-* org:example.com
 
+
+
+
+
+**Device Type - Sorted Most Results to Least)**
+device:bridge
+device:"broadband router"
+device:firewall (776,057)
+device:"load balancer" (3,824)
+device:media or device:"media device" (74,321)
+device:pbx (41,300)
+device:pda (6)
+device:phone (16,204)
+device:"voip phone" (15,549)
+device:"power device" (155)
+device:power (159)
+device:printer (26,238)
+device:"print server" (2,100)
+device:proxy or device:"proxy server" (123)
+device:remote or device:"remote management" (427)
+device:router (495,815)
+
+
+
+**Operating System**
+
+
+
+**SSL/TLS Version**
+ssl.version:sslv3
+ssl.version:tlsv1
+ssl.version:tlsv1.1
+ssl.version:tlsv1.2
+ssl.version:tlsv1.3
+
+
+
+
+**Fun Stuff**
 
 
 
@@ -30,3 +69,5 @@ https://beta.shodan.io/search/examples
 https://beta.shodan.io/search/filters
 
 https://developer.shodan.io/api/banner-specification
+
+https://nmap.org/book/osdetect-device-types.html
