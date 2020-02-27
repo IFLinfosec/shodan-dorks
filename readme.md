@@ -77,12 +77,12 @@ server: ubuntu (9,866,657)
 server: android (37,205)  
 
 **Ports**  
-port:21
-port:22
-port:25
-port:53
-port:3389
-
+port:21  
+port:22  
+port:23  
+port:25  
+port:53  
+port:3389  
 
 
 **Link**  
