@@ -1,7 +1,7 @@
 **Hostname**  
 hostname:example.com  
 hostname:subdomain.example.com  
-hostname:example -hostname:example.com  
+hostname:example.com -hostname:subdomain.example.com  
 hostname:example.com,example.org
 
 
