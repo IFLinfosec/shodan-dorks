@@ -11,9 +11,7 @@ org:"United States Department"
 
 **SSL Certificate Subject Common Name**  
 ssl.cert.subject.cn:example.com  
-
-**Industrial Control Systems (available to enterprise users)**  
-tag:ics  
+ssl.cert.issuer.cn:example.com ssl.cert.subject.cn:example.com (self signed certificates)  
 
 
 **Device Type (# Results)**  
@@ -62,14 +60,22 @@ os:"linux 2"
 os:"linux 3"  
 
 
-**Products and Version**  
+**Product, Server and Version (# of)**  
 product:apache  
 product:nginx  
 product:"microsoft iis" version:"10.0"
+product:android (14,448)  
+
+server: nginx (27,731,096)  
+server: apache (23,342,048)  
+server: ubuntu (9,866,657)  
+server: android (37,205)  
+
+
 
 
 **Link**  
-
+link:vpn
 
 
 **Network**  
