@@ -4,17 +4,15 @@ hostname:subdomain.example.com
 hostname:example -hostname:example.com  
 hostname:example.com,example.org
     
-  
+
 **Organization**  
 org:microsoft  
 org:"United States Department"    
 
 
-
 **SSL Certificate Subject Common Name**  
 ssl.cert.subject.cn:example.com  
 ssl.cert.issuer.cn:example.com ssl.cert.subject.cn:example.com (self signed certificates)  
-
 
 
 **Autonomous System Number (ASN) and Network**  
