@@ -14,6 +14,11 @@ ssl.cert.subject.cn:example.com
 ssl.cert.issuer.cn:example.com ssl.cert.subject.cn:example.com (self signed certificates)  
 
 
+**Autonomous System Number (ASN) and Network**  
+asn:AS3356  
+net:192.168.100.14/24  
+
+
 **Device Type (# Results)**  
 device:firewall (776,057)  
 device:router (495,815)  
@@ -77,8 +82,6 @@ server: android (37,205)
 **Link**  
 link:vpn
 
-
-**Network**  
 
 
 **Server**  
