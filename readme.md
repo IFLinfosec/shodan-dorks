@@ -69,13 +69,13 @@ os:"linux 3.x"
 **Product, Server and Version (# of)**  
 product:apache  
 product:nginx  
-product:"microsoft iis" version:"10.0"
-product:android (14,448)  
+product:"microsoft iis"
+product:android  
 
-server: nginx (27,731,096)  
-server: apache (23,342,048)  
-server: ubuntu (9,866,657)  
-server: android (37,205)  
+server: nginx  
+server: apache  
+server: ubuntu  
+server: android  
 
 **Ports**  
 port:21  
