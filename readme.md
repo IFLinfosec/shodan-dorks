@@ -72,7 +72,7 @@ product:microsoft
 product:"microsoft iis"  
 product:nginx  
 product:android  
-
+product:chromecast  
 
 **Platform**  
 cpe:apple  
