@@ -16,7 +16,7 @@ ssl.cert.issuer.cn:example.com ssl.cert.subject.cn:example.com (self signed cert
 
 
 **Autonomous System Number (ASN) and Network**  
-asn:AS3356  
+asn:ASxxxx  
 net:x.x.x.x/x
 
 
