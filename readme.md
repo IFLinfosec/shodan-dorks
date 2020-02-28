@@ -15,9 +15,11 @@ ssl.cert.subject.cn:example.com
 ssl.cert.issuer.cn:example.com ssl.cert.subject.cn:example.com (self signed certificates)  
 
 
-**Autonomous System Number (ASN) and Network**  
+**Autonomous System Number (ASN)**  
 asn:ASxxxx  
-net:x.x.x.x/x
+
+**Network**  
+net:x.x.x.x/x  
 
 
 **Device Type**  
