@@ -127,6 +127,8 @@ ssl.version:tlsv1.3
 
 **Location**  
 country:us  
+country:ru
+country:de
 city:chicago  
 
 
