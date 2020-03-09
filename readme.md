@@ -10,7 +10,7 @@ org:microsoft
 org:"United States Department"    
 
 
-**SSL Certificate Subject Common Name**  
+**SSL/TLS Certificates**  
 _Self signed certificates_  
 ssl.cert.issuer.cn:example.com ssl.cert.subject.cn:example.com  
   
