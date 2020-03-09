@@ -11,8 +11,11 @@ org:"United States Department"
 
 
 **SSL Certificate Subject Common Name**  
-ssl.cert.subject.cn:example.com  
+_Self signed certificates_  
 ssl.cert.issuer.cn:example.com ssl.cert.subject.cn:example.com (self signed certificates)  
+_Expired certificates_  
+ssl.cert.expired:true  
+ssl.cert.subject.cn:example.com  
 
 
 **Autonomous System Number (ASN)**  
