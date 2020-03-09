@@ -12,9 +12,11 @@ org:"United States Department"
 
 **SSL Certificate Subject Common Name**  
 _Self signed certificates_  
-ssl.cert.issuer.cn:example.com ssl.cert.subject.cn:example.com (self signed certificates)  
+ssl.cert.issuer.cn:example.com ssl.cert.subject.cn:example.com  
+  
 _Expired certificates_  
 ssl.cert.expired:true  
+  
 ssl.cert.subject.cn:example.com  
 
 
