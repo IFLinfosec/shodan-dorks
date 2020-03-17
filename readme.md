@@ -81,7 +81,7 @@ product:nginx
 product:android  
 product:chromecast  
 
-**Platform**  
+**Customer Premises Equipment (CPE)**  
 cpe:apple  
 cpe:microsoft  
 cpe:oracle  
